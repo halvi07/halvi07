@@ -1,24 +1,34 @@
 ## Who am I?
 
- ```python
-  class WhoAmI:
-    user = 'Halvi07'
-	current_edu = "Elektronic Engineering"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
-			]
-	
-	def getCity():
-		return Åkrahamn()
-	
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+ ```<?php
+
+class WhoAmI
+{
+    public string $user = 'Halvi07';
+    public string $currentEdu = 'Automation Engineering';
+    public string $currentlyLearning = 'JavaScript';
+    public string $funFact = 'I love PHP';
+
+    public array $hobbies = [
+        'Music',
+        'Chilling',
+        'Gaming',
+        'Sci-Fi Movies'
+    ];
+
+    public function getCity(): string
+    {
+        return 'Åkrahamn';
+    }
+
+    public function ambitions(): array
+    {
+        return [
+            'Become a Automation Engineer',
+            'Finish my projects'
+        ];
+    }
+}
 	
  ```
 
@@ -81,9 +91,9 @@
   <a href="https://github.com/halvi07"><img alt="Github" title="Halvi Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  </p>
  <p align="center">
-  <a href="mailto:halvi@halvi.site"><img alt="Mail" title="Halvi | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:kontakt@fjhs.no"><img alt="Mail" title="Halvi | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ------
 [Halvi07](https://github.com/halvi07)
-Last Edited on - 09.01.2024
+Last Edited on - 09.01.2026
