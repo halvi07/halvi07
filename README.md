@@ -44,8 +44,6 @@
 ## Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=halvi07&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halvi07&layout=compact&theme=github_dark"/>|
 
 ---
 
