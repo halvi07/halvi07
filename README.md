@@ -1,99 +1,91 @@
-## Who am I?
+<!-- Header -->
+<div align="center">
+  <h1>Olliver Halvorsen <code>@halvi07</code></h1>
+  <p>
+    Automation engineering student &nbsp;·&nbsp; ISP owner @ <a href="https://fjhs.no">Fjordnett</a> &nbsp;·&nbsp; Åkrahamn, Norway<br>
+    <sub>Building things at the intersection of industrial tech and the web.</sub>
+  </p>
+</div>
 
- ```<?php
+---
+
+```php
+<?php
 
 class WhoAmI
 {
-    public string $user = 'Halvi07';
-    public string $currentEdu = 'Automation Engineering';
-    public string $currentlyLearning = 'JavaScript';
-    public string $funFact = 'I love PHP';
+    public string $name     = 'Olliver Halvorsen';
+    public string $edu      = 'VG3 Automasjon · Åkrahamn VGS · graduating 2026';
+    public array  $work     = ['Elkjøp Norge AS', 'Fjordnett — owner (fjhs.no)'];
+    public string $learning = 'JavaScript, PLS systems, industrial communication protocols';
+    public string $funFact  = 'I love PHP'; // no regrets
 
-    public array $hobbies = [
-        'Music',
-        'Chilling',
-        'Gaming',
-        'Sci-Fi Movies'
-    ];
-
-    public function getCity(): string
-    {
-        return 'Åkrahamn';
-    }
+    public array $hobbies = ['Music', 'Gaming', 'Chilling', 'Sci-Fi Movies'];
 
     public function ambitions(): array
     {
         return [
-            'Become a Automation Engineer',
-            'Finish my projects'
+            'Become an Automation Engineer',
+            'Finish my projects',
         ];
     }
 }
-	
- ```
+```
 
- 
-## Github Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=halvi07&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=halvi07&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halvi07&layout=compact&theme=github_dark"/>|
+## Currently building
 
-## Programming Languages
+- **Fjordnett customer portal** — Laravel · PHP · MySQL · [fjhs.no](https://fjhs.no)
+- **editor.fjhs.no** — web-based code editor · Node.js · Express
+- **Automation apprenticeship applications** — PLS · IEC 61131-3 · 2026
+
+---
+
+## Languages
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+
+## Tools & stack
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?logo=xampp&logoColor=white)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)
+
+---
+
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=halvi07&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halvi07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="150" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halvi07&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
+## Connect
 
 <p>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/halvi07"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-halvi07-181717?logo=github&logoColor=white&style=flat-square"></a>
+  &nbsp;
+  <a href="mailto:kontakt@fjhs.no"><img alt="Email" src="https://img.shields.io/badge/Email-kontakt%40fjhs.no-D14836?logo=gmail&logoColor=white&style=flat-square"></a>
+  &nbsp;
+  <a href="https://fjhs.no"><img alt="Fjordnett" src="https://img.shields.io/badge/Web-fjhs.no-1a6fb5?style=flat-square"></a>
 </p>
 
-## Operating Systems
-<p>
-	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
-	
-</p>
+---
 
-## Browsers
-<p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
-
-## Databases and Cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Xampp%20-%23430098.svg?logo=xampp&logoColor=white"></a>
-</p> 
-
-## Software and Tools
-<p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
-	<a href="#"><img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important"></a>
-	<a href="#"><img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
-	<a href="#"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?for-the-badge&logo=xcode&logoColor=white"></a>
-	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-</p>
-
-## Connect with Me
-
-
-<p align="center">
-  <a href="https://github.com/halvi07"><img alt="Github" title="Halvi Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
- </p>
- <p align="center">
-  <a href="mailto:kontakt@fjhs.no"><img alt="Mail" title="Halvi | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-------
-[Halvi07](https://github.com/halvi07)
-Last Edited on - 09.01.2026
+<sub>Last updated · April 2026</sub>
