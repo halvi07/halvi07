@@ -43,5 +43,4 @@
 
 ---
 
-![Status](https://status.fjhs.no/badge)
-📧 Halvorsen07@outlook.com · 🌐 [fjhs.no](https://fjhs.no) · [LinkedIn](https://www.linkedin.com/in/olliverhalvorsen)
+📧 Halvorsen07@outlook.com · 🌐 [fjhs.no](https://fjhs.no) · [LinkedIn](https://www.linkedin.com/in/olliverhalvorsen) · 🌐 [status.fjhs.no](https://status.fjhs.no) 
