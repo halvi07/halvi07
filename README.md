@@ -43,4 +43,5 @@
 
 ---
 
+<iframe src="https://status.fjhs.no/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no" style="color-scheme: normal;"></iframe>
 📧 Halvorsen07@outlook.com · 🌐 [fjhs.no](https://fjhs.no) · [LinkedIn](https://www.linkedin.com/in/olliverhalvorsen)
