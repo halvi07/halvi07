@@ -6,7 +6,7 @@
 
 ## Experience
 
-**Automation Apprentice · Equinor** `Aug. 2026`  
+**Automation Apprentice · Equinor** `Aug. 2026 -`  
 **Owner · Fjordnett (hobby)** `Jan. 2025 –`  
 **Sales · Elkjøp Åkra Elektriske AS** `Jul. 2025 –`  
 
