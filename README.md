@@ -1,6 +1,6 @@
 # Olliver Halvorsen
 
-Åkrahamn, Karmøy · Automation student & tech enthusiast
+Åkrahamn, Karmøy · Automation Apprentice · Equinor & Hosting/Development Enthusiast
 
 ---
 
