@@ -6,13 +6,13 @@
 
 ## Experience
 
-**Developing for Elkjøp Nordic** `Apr. 2026 -`  
 **Automation Apprentice · Equinor** `Aug. 2026 -`  
-**Owner · Fjordnett (hobby)** `Jan. 2025 –`  
-**Sales · Elkjøp Åkra Elektriske AS** `Jul. 2025 –`  
+**Owner · Fjordnett (hobby)** `Jan. 2025 –`
 
 &nbsp;
-
+  
+**Developing for Elkjøp Nordic** `Apr. 2026 - Aug. 2026`  
+**Sales · Elkjøp Åkra Elektriske AS** `Jul. 2025 – Aug. 2026`  
 **CEO · MobiCo NO UB** `Apr. – Nov. 2024`  
 **Support / Customer Service · Elkjøp** `Sep. 2023 – Jul. 2025`  
 **Cashier · Elkjøp** `Oct. 2022 – Jan. 2023`
